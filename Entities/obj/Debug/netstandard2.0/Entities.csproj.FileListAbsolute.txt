@@ -1,0 +1,8 @@
+C:\Users\Lenovo\Desktop\Programs\Kamp Odevleri\ReCapProject\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+C:\Users\Lenovo\Desktop\Programs\Kamp Odevleri\ReCapProject\Entities\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\Lenovo\Desktop\Programs\Kamp Odevleri\ReCapProject\Entities\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\Lenovo\Desktop\Programs\Kamp Odevleri\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Programs\Kamp Odevleri\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Programs\Kamp Odevleri\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Programs\Kamp Odevleri\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.dll
+C:\Users\Lenovo\Desktop\Programs\Kamp Odevleri\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.pdb
