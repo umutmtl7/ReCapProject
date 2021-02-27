@@ -12,3 +12,5 @@ C:\Users\Lenovo\Desktop\Programs\Kamp Odevleri\ReCapProject\Business\obj\Debug\n
 C:\Users\Lenovo\Desktop\Programs\Kamp Odevleri\ReCapProject\Business\obj\Debug\netstandard2.0\Business.csproj.CopyComplete
 C:\Users\Lenovo\Desktop\Programs\Kamp Odevleri\ReCapProject\Business\obj\Debug\netstandard2.0\Business.dll
 C:\Users\Lenovo\Desktop\Programs\Kamp Odevleri\ReCapProject\Business\obj\Debug\netstandard2.0\Business.pdb
+C:\Users\Lenovo\Desktop\Programs\Kamp Odevleri\ReCapProject\Business\bin\Debug\netstandard2.0\Core.dll
+C:\Users\Lenovo\Desktop\Programs\Kamp Odevleri\ReCapProject\Business\bin\Debug\netstandard2.0\Core.pdb
