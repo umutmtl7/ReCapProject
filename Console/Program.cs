@@ -1,6 +1,7 @@
 ﻿using Business.Concrete;
 using DataAccess.Concrete.EntityFramework;
 using DataAccess.Concrete.InMemory;
+using Entities.Concrete;
 using System;
 
 namespace Console
@@ -9,7 +10,7 @@ namespace Console
     {
         static void Main(string[] args)
         {
-            CarTest();
+            //CarTest();
         }
 
         private static void CarTest()

@@ -27,6 +27,11 @@ namespace Business.Concrete
             _carDal.Delete(car);
         }
 
+        public Car Get(int id)
+        {
+            return _carDal.Get(c=>c.Id == id);
+        }
+
         public List<Car> GetAll()
         {
             return _carDal.GetAll();
