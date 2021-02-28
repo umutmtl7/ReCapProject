@@ -8,17 +8,26 @@ namespace Console
 {
     class Program
     {
+        
         static void Main(string[] args)
         {
-            //CarTest();
+            CarTest();            
         }
 
         private static void CarTest()
         {
             CarManager carManager = new CarManager(new EfCarDal());
-            foreach (var car in carManager.GetCarDetails())
+            var result = carManager.GetCarDetails();
+            if (result.Success == true)
             {
-                System.Console.WriteLine("{0}/{1}/{2}/{3}", car.Description,car.BrandName,car.ColorName,car.DailyPrice);
+                foreach (var car in result.Data)
+                {
+                    System.Console.WriteLine("{0}/{1}/{2}/{3}", car.Name, car.BrandName, car.ColorName, car.DailyPrice);
+                }
+            }
+            else
+            {
+                System.Console.WriteLine(result.Message);
             }
         }
     }

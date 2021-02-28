@@ -13,6 +13,7 @@ namespace DataAccess.Concrete.EntityFramework
 {
     public class EfCarDal : EfEntityRepositoryBase<Car, ReCapContext> ,ICarDal
     {
+
         public List<CarDetailDto> GetCarDetails()
         {
             //joins
@@ -25,7 +26,7 @@ namespace DataAccess.Concrete.EntityFramework
                              on c.BrandId equals b.Id
                              select new CarDetailDto
                              {
-                                 Description = c.Description,
+                                 Name = c.Name,
                                  BrandName = b.BrandName,
                                  ColorName = cl.ColorName,
                                  DailyPrice = c.DailyPrice
