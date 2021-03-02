@@ -5682,9 +5682,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\Programs\\Kamp Odevleri\\ReCapProject\\Console\\Console.csproj",
-      "projectName": "Console",
-      "projectPath": "C:\\Users\\Lenovo\\Desktop\\Programs\\Kamp Odevleri\\ReCapProject\\Console\\Console.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\Programs\\Kamp Odevleri\\ReCapProject\\Console\\ConsoleUI.csproj",
+      "projectName": "ConsoleUI",
+      "projectPath": "C:\\Users\\Lenovo\\Desktop\\Programs\\Kamp Odevleri\\ReCapProject\\Console\\ConsoleUI.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Lenovo\\Desktop\\Programs\\Kamp Odevleri\\ReCapProject\\Console\\obj\\",
       "projectStyle": "PackageReference",

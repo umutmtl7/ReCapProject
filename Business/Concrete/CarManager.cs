@@ -72,5 +72,32 @@ namespace Business.Concrete
             return new SuccessDataResult<List<Car>>(_carDal.GetAll(c => c.ColorId == id));
         }
 
+        public IResult Update(Car car)
+        {
+            if (car.Name.Length < 2)
+            {
+                return new ErrorResult(Messages.CarNameInvalid);
+            }
+            if (car.DailyPrice <= 0)
+            {
+                return new ErrorResult(Messages.DailyPriceInvalid);
+            }
+            _carDal.Update(car);
+            return new SuccessResult(Messages.CarUpdated);
+        }
+
+        public IResult Delete(Car car)
+        {
+            try
+            {
+                _carDal.Delete(car);
+                return new SuccessResult(Messages.CarDeleted);
+            }
+            catch (Exception)
+            {
+
+                throw new Exception("Silinme işlemi sırasında bir hata oluştu!");
+            }
+        }
     }
 }

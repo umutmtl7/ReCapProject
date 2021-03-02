@@ -29,5 +29,38 @@ namespace Business.Concrete
             }
             return new SuccessDataResult<List<Color>>(_colorDal.GetAll());
         }
+
+        public IResult Add(Color color)
+        {
+            if (color.ColorName.Length < 2)
+            {
+                return new ErrorResult(Messages.ColorNameInvalid);
+            }
+            _colorDal.Add(color);
+            return new SuccessResult(Messages.ColorAdded);
+        }
+
+        public IResult Update(Color color)
+        {
+            if (color.ColorName.Length < 2)
+            {
+                return new ErrorResult(Messages.ColorNameInvalid);
+            }
+            _colorDal.Update(color);
+            return new SuccessResult(Messages.ColorUpdated);
+        }
+            public IResult Delete(Color color)
+        {
+                try
+                {
+                    _colorDal.Delete(color);
+                    return new SuccessResult(Messages.ColorDeleted);
+                }
+                catch (Exception)
+                {
+
+                    throw new Exception("Silinme işlemi sırasında bir hata oluştu!");
+                }
+            }
     }
 }
