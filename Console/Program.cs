@@ -17,7 +17,7 @@ namespace ConsoleUI
 
         private static void RentalTest()
         {
-            Rental rental5 = new Rental {CarId = 5, CustomerId = 2, RentDate = new DateTime(2030,10,10,10,00,00) ,
+            Rental rental5 = new Rental {CarId = 5 ,CustomerId = 2, RentDate = new DateTime(2030,10,10,10,00,00) ,
                 ReturnDate = new DateTime(2030,11,11,15,12,00)};
             RentalManager rentalManager = new RentalManager(new EfRentalDal());
             var result = rentalManager.Add(rental5);
