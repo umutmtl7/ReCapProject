@@ -66,3 +66,7 @@ C:\Users\Lenovo\Desktop\Programs\Kamp Odevleri\ReCapProject\WebAPI\obj\Debug\net
 C:\Users\Lenovo\Desktop\Programs\Kamp Odevleri\ReCapProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
 C:\Users\Lenovo\Desktop\Programs\Kamp Odevleri\ReCapProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
 C:\Users\Lenovo\Desktop\Programs\Kamp Odevleri\ReCapProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Programs\Kamp Odevleri\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\Users\Lenovo\Desktop\Programs\Kamp Odevleri\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+C:\Users\Lenovo\Desktop\Programs\Kamp Odevleri\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extras.DynamicProxy.dll
+C:\Users\Lenovo\Desktop\Programs\Kamp Odevleri\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Castle.Core.dll
