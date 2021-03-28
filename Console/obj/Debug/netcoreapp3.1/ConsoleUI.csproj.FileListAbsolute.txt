@@ -60,3 +60,8 @@ C:\Users\Lenovo\Desktop\Programs\Kamp Odevleri\ReCapProject\Console\obj\Debug\ne
 C:\Users\Lenovo\Desktop\Programs\Kamp Odevleri\ReCapProject\Console\obj\Debug\netcoreapp3.1\ConsoleUI.dll
 C:\Users\Lenovo\Desktop\Programs\Kamp Odevleri\ReCapProject\Console\obj\Debug\netcoreapp3.1\ConsoleUI.pdb
 C:\Users\Lenovo\Desktop\Programs\Kamp Odevleri\ReCapProject\Console\obj\Debug\netcoreapp3.1\ConsoleUI.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Programs\Kamp Odevleri\ReCapProject\Console\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\Users\Lenovo\Desktop\Programs\Kamp Odevleri\ReCapProject\Console\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+C:\Users\Lenovo\Desktop\Programs\Kamp Odevleri\ReCapProject\Console\bin\Debug\netcoreapp3.1\Autofac.Extras.DynamicProxy.dll
+C:\Users\Lenovo\Desktop\Programs\Kamp Odevleri\ReCapProject\Console\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\Lenovo\Desktop\Programs\Kamp Odevleri\ReCapProject\Console\bin\Debug\netcoreapp3.1\FluentValidation.dll

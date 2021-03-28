@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "3AbzBTTdjvVNTfmZWF0JMA6+WXaqpvzIm1xPRXe69gCidCojQBzKjYGTgTgKCnKM62g2XaA7YKCG90BJMiyPuw==",
+  "dgSpecHash": "c5oAtBN0KJuh1HGGQPOTerOtMQpt09B12T7tcDa7CRFU+OPWqBuAlcpzSc+Z+nZs3cSEGaiQN/2Lo5tETAaMhQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\Programs\\Kamp Odevleri\\ReCapProject\\Console\\ConsoleUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.1.0\\autofac.extensions.dependencyinjection.7.1.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\autofac.extras.dynamicproxy\\6.0.0\\autofac.extras.dynamicproxy.6.0.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\fluentvalidation\\9.5.3\\fluentvalidation.9.5.3.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

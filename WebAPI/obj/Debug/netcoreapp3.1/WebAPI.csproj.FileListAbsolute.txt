@@ -70,3 +70,4 @@ C:\Users\Lenovo\Desktop\Programs\Kamp Odevleri\ReCapProject\WebAPI\bin\Debug\net
 C:\Users\Lenovo\Desktop\Programs\Kamp Odevleri\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
 C:\Users\Lenovo\Desktop\Programs\Kamp Odevleri\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extras.DynamicProxy.dll
 C:\Users\Lenovo\Desktop\Programs\Kamp Odevleri\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\Lenovo\Desktop\Programs\Kamp Odevleri\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\FluentValidation.dll
